@@ -520,3 +520,9 @@ img:hover{
 .home-img img:hover{
     font-size: 1.8rem;
     font-weight: 500;
+}
+.inf0_container{
+  display: flex
+  gap: 1m
+}
+  
