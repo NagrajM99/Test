@@ -220,7 +220,7 @@ img:hover{
   color: var(--first-color);
 }
 .home__img {
-  position: absolute;
+  border_radius: 10px;
   right: 0;
   bottom: 0;
   width: 260px;
