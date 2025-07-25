@@ -508,3 +508,15 @@ img:hover{
     width: 450px;
   }
 }
+
+.home-img img{
+    position: relative;
+    width: 32vw;
+    border-radius: 15%;
+    box-shadow: 0 0 25px solid #b74b4b;
+    transition: 0.2s linear;
+}
+
+.home-img img:hover{
+    font-size: 1.8rem;
+    font-weight: 500;
